@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(107, 26, 26);
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+   
+}
+
+
+
+p {
+    color: rgb(127 201 109);
+    font-family: "Old Standard TT", serif;
+    font-size: 30px;
+}
+
+
+
+button {
+    background-color: rgb(127 201 109);
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 20px;
+}
+
+
+
+header {
+    color: rgb(252, 252, 252);
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 65px;   
+}
+
+
+
+.passo {
+    display: none;
+}
+
+
+
+.passo.ativo {
+    display: block;
+}
+
+
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+
+
+img {
+    max-width: 80%;
+}
